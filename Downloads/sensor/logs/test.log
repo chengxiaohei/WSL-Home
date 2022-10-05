@@ -1,0 +1,9 @@
+[2022-02-27 14:26:12.571] [main_logger] [trace] hhhhhh
+[2022-02-27 14:27:24.101] [main_logger] [trace] hhhhhh%s
+[2022-02-27 14:31:02.407] [main_logger] [trace] hhhhhh heha
+[2022-02-27 14:42:39.657] [main_logger] [error] curl_easy_perform() failed: SSL connect error
+[2022-02-27 14:50:28.630] [main_logger] [error] curl_easy_perform() failed: SSL connect error
+[2022-02-27 14:55:57.670] [main_logger] [info] curl_easy_perform() successed !
+[2022-02-27 14:58:31.002] [main_logger] [info] curl_easy_perform() successed!
+[2022-02-27 16:14:41.145] [main_logger] [info] curl_easy_perform() successed!
+[2022-02-28 20:32:48.944] [main_logger] [info] o_device1 query data with 1Hz
